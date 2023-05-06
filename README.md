@@ -57,7 +57,7 @@ booking service based on Hibernate and Spring frameworks using general REST prin
 * Use [init_db.sql](src/main/resources/init_db.sql) file for creating your local database.
 * Open [db.properties](src/main/resources/db.properties) file and write information about your database.
 * db.driver= "YOUR_DRIVER"
-* db.url= jdbc:mysql://YOUR_DATABASE_URL/cinema_app
+* db.url= jdbc:mysql://YOUR_DATABASE_URL/cinema
 * db.user= "YOUR_USERNAME"
 * db.password= "YOUR_PASSWORD"
 * Configure Apache Tomcat version 9.0.50 Artifact: war-exploded artifact, Application context: "/";
